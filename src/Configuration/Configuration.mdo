@@ -39,6 +39,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.tsc_РаботаСФормулами</subsystems>
   <commonPictures>CommonPicture.tsc_КоллекцияПиктограммКонструктораФормул</commonPictures>
   <roles>Role.tsc_ОсновнаяРоль</roles>
   <commonModules>CommonModule.tsc_РаботаСФормулами</commonModules>
@@ -46,11 +47,16 @@
   <commonModules>CommonModule.tsc_РаботаСФормуламиКлиент</commonModules>
   <commonModules>CommonModule.tsc_РаботаСФормуламиКлиентСервер</commonModules>
   <commonModules>CommonModule.tsc_РаботаСФормуламиПовтИсп</commonModules>
+  <commonModules>CommonModule.tsc_РаботаСФормуламиПереопределяемый</commonModules>
   <commonModules>CommonModule.tsc_КомпоновкаДанныхСервер</commonModules>
   <commonModules>CommonModule.tsc_КомпоновкаДанныхКлиент</commonModules>
   <commonModules>CommonModule.tsc_КомпоновкаДанныхКлиентСервер</commonModules>
   <commonModules>CommonModule.tsc_КомпоновкаДанныхПовтИсп</commonModules>
   <commonModules>CommonModule.tsc_КомпоновкаДанныхВызовСервера</commonModules>
+  <commonModules>CommonModule.tsc_ОбщегоНазначения</commonModules>
+  <definedTypes>DefinedType.tsc_СправочникИдентификаторыОбъектовМетаданных</definedTypes>
   <commonForms>CommonForm.tsc_КонструкторФормул</commonForms>
   <commonForms>CommonForm.tsc_ВыборПоляПутиКДанным</commonForms>
+  <commonForms>CommonForm.tsc_ФормаПросмотраТекста</commonForms>
+  <dataProcessors>DataProcessor.tsc_ПримерОткрытияКонструктораФормул</dataProcessors>
 </mdclass:Configuration>

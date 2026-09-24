@@ -2,12 +2,12 @@
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5ec5aab6-16f4-40af-8f8c-8c75d5f8fc96">
   <name>tsc_КомпоновкаДанныхВызовСервера</name>
   <synonym>
-    <key>en</key>
-    <value>Data composition server call</value>
-  </synonym>
-  <synonym>
     <key>ru</key>
     <value>Компоновка данных вызов сервера (tsc)</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Data composition server call</value>
   </synonym>
   <server>true</server>
   <serverCall>true</serverCall>

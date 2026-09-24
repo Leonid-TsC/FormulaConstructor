@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7c164ab9-cbf2-4d69-b695-9da253803b33">
+  <name>tsc_РаботаСФормулами</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с формулами (tsc)</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonPicture.tsc_КоллекцияПиктограммКонструктораФормул</content>
+  <content>CommonModule.tsc_РаботаСФормулами</content>
+  <content>CommonModule.tsc_РаботаСФормуламиВызовСервера</content>
+  <content>CommonModule.tsc_РаботаСФормуламиКлиент</content>
+  <content>CommonModule.tsc_РаботаСФормуламиКлиентСервер</content>
+  <content>CommonModule.tsc_РаботаСФормуламиПовтИсп</content>
+  <content>CommonModule.tsc_РаботаСФормуламиПереопределяемый</content>
+  <content>CommonModule.tsc_КомпоновкаДанныхСервер</content>
+  <content>CommonModule.tsc_КомпоновкаДанныхКлиент</content>
+  <content>CommonModule.tsc_КомпоновкаДанныхКлиентСервер</content>
+  <content>CommonModule.tsc_КомпоновкаДанныхПовтИсп</content>
+  <content>CommonModule.tsc_КомпоновкаДанныхВызовСервера</content>
+  <content>CommonModule.tsc_ОбщегоНазначения</content>
+  <content>Role.tsc_ОсновнаяРоль</content>
+  <content>CommonForm.tsc_КонструкторФормул</content>
+  <content>CommonForm.tsc_ВыборПоляПутиКДанным</content>
+  <content>CommonForm.tsc_ФормаПросмотраТекста</content>
+  <content>DataProcessor.tsc_ПримерОткрытияКонструктораФормул</content>
+</mdclass:Subsystem>

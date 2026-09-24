@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f925edc0-8c16-4560-9d7d-911ca7e7f653">
+  <name>tsc_ОбщегоНазначения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Общего назначения (tsc)</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

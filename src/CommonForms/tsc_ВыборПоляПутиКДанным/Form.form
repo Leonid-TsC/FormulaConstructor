@@ -245,81 +245,6 @@
     <contextMenu>
       <name>ДеревоВыбораКонтекстноеМеню</name>
       <id>2</id>
-      <items xsi:type="form:Button">
-        <name>ДеревоВыбораКонтекстноеМенюСоздатьДополнительноеСведение</name>
-        <id>27</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <extendedTooltip>
-          <name>ДеревоВыбораКонтекстноеМенюСоздатьДополнительноеСведениеРасширеннаяПодсказка</name>
-          <id>28</id>
-          <type>Label</type>
-          <autoMaxWidth>true</autoMaxWidth>
-          <autoMaxHeight>true</autoMaxHeight>
-          <extInfo xsi:type="form:LabelDecorationExtInfo">
-            <horizontalAlign>Left</horizontalAlign>
-          </extInfo>
-        </extendedTooltip>
-        <commandName>Form.Command.СоздатьДополнительноеСведение</commandName>
-        <representation>Auto</representation>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <placementArea>UserCmds</placementArea>
-        <representationInContextMenu>Auto</representationInContextMenu>
-      </items>
-      <items xsi:type="form:Button">
-        <name>ДеревоВыбораКонтекстноеМенюДобавитьДополнительноеСвойство</name>
-        <id>25</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <extendedTooltip>
-          <name>ДеревоВыбораКонтекстноеМенюДобавитьДополнительноеСвойствоРасширеннаяПодсказка</name>
-          <id>26</id>
-          <type>Label</type>
-          <autoMaxWidth>true</autoMaxWidth>
-          <autoMaxHeight>true</autoMaxHeight>
-          <extInfo xsi:type="form:LabelDecorationExtInfo">
-            <horizontalAlign>Left</horizontalAlign>
-          </extInfo>
-        </extendedTooltip>
-        <commandName>Form.Command.ДобавитьДополнительноеСвойство</commandName>
-        <representation>Auto</representation>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <placementArea>UserCmds</placementArea>
-        <representationInContextMenu>Auto</representationInContextMenu>
-      </items>
-      <items xsi:type="form:Button">
-        <name>ДеревоВыбораКонтекстноеМенюСоздатьДополнительныйРеквизит</name>
-        <id>29</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <extendedTooltip>
-          <name>ДеревоВыбораКонтекстноеМенюСоздатьДополнительныйРеквизитРасширеннаяПодсказка</name>
-          <id>30</id>
-          <type>Label</type>
-          <autoMaxWidth>true</autoMaxWidth>
-          <autoMaxHeight>true</autoMaxHeight>
-          <extInfo xsi:type="form:LabelDecorationExtInfo">
-            <horizontalAlign>Left</horizontalAlign>
-          </extInfo>
-        </extendedTooltip>
-        <commandName>Form.Command.СоздатьДополнительныйРеквизит</commandName>
-        <representation>Auto</representation>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <placementArea>UserCmds</placementArea>
-        <representationInContextMenu>Auto</representationInContextMenu>
-      </items>
       <autoFill>true</autoFill>
     </contextMenu>
     <representation>Tree</representation>
@@ -394,131 +319,6 @@
         </extInfo>
       </extendedTooltip>
       <commandName>Form.StandardCommand.Close</commandName>
-      <autoMaxWidth>true</autoMaxWidth>
-      <autoMaxHeight>true</autoMaxHeight>
-      <placementArea>UserCmds</placementArea>
-      <representationInContextMenu>Auto</representationInContextMenu>
-    </items>
-    <items xsi:type="form:FormGroup">
-      <name>ФормаГруппаДобавитьДополнительныйРеквизитСведение</name>
-      <id>19</id>
-      <items xsi:type="form:Button">
-        <name>ФормаСоздатьДополнительныйРеквизит</name>
-        <id>21</id>
-        <title>
-          <key>ru</key>
-          <value>Дополнительный реквизит</value>
-        </title>
-        <title>
-          <key>en</key>
-          <value>Additional attribute</value>
-        </title>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <extendedTooltip>
-          <name>ФормаСоздатьДополнительныйРеквизитРасширеннаяПодсказка</name>
-          <id>22</id>
-          <type>Label</type>
-          <autoMaxWidth>true</autoMaxWidth>
-          <autoMaxHeight>true</autoMaxHeight>
-          <extInfo xsi:type="form:LabelDecorationExtInfo">
-            <horizontalAlign>Left</horizontalAlign>
-          </extInfo>
-        </extendedTooltip>
-        <commandName>Form.Command.СоздатьДополнительныйРеквизит</commandName>
-        <representation>Auto</representation>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <placementArea>UserCmds</placementArea>
-        <representationInContextMenu>Auto</representationInContextMenu>
-      </items>
-      <items xsi:type="form:Button">
-        <name>ФормаСоздатьДополнительноеСведение</name>
-        <id>23</id>
-        <title>
-          <key>ru</key>
-          <value>Дополнительное сведение</value>
-        </title>
-        <title>
-          <key>en</key>
-          <value>Additional information</value>
-        </title>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <extendedTooltip>
-          <name>ФормаСоздатьДополнительноеСведениеРасширеннаяПодсказка</name>
-          <id>24</id>
-          <type>Label</type>
-          <autoMaxWidth>true</autoMaxWidth>
-          <autoMaxHeight>true</autoMaxHeight>
-          <extInfo xsi:type="form:LabelDecorationExtInfo">
-            <horizontalAlign>Left</horizontalAlign>
-          </extInfo>
-        </extendedTooltip>
-        <commandName>Form.Command.СоздатьДополнительноеСведение</commandName>
-        <representation>Auto</representation>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <placementArea>UserCmds</placementArea>
-        <representationInContextMenu>Auto</representationInContextMenu>
-      </items>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <title>
-        <key>ru</key>
-        <value>Создать</value>
-      </title>
-      <title>
-        <key>en</key>
-        <value>Create</value>
-      </title>
-      <extendedTooltip>
-        <name>ФормаГруппаДобавитьДополнительныйРеквизитСведениеРасширеннаяПодсказка</name>
-        <id>20</id>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <type>Popup</type>
-      <extInfo xsi:type="form:PopupGroupExtInfo">
-        <picture xsi:type="core:PictureRef">
-          <picture>StdPicture.CreateListItem</picture>
-        </picture>
-        <representation>Auto</representation>
-      </extInfo>
-    </items>
-    <items xsi:type="form:Button">
-      <name>ФормаДобавитьДополнительноеСвойство</name>
-      <id>17</id>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <extendedTooltip>
-        <name>ФормаДобавитьДополнительноеСвойствоРасширеннаяПодсказка</name>
-        <id>18</id>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <commandName>Form.Command.ДобавитьДополнительноеСвойство</commandName>
-      <representation>Auto</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
       <placementArea>UserCmds</placementArea>
@@ -777,28 +577,6 @@
     </columns>
   </attributes>
   <attributes>
-    <name>ВидАналитики</name>
-    <title>
-      <key>ru</key>
-      <value>Вид аналитики</value>
-    </title>
-    <title>
-      <key>en</key>
-      <value>Dimension kind</value>
-    </title>
-    <id>3</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
     <name>ТипЗначения</name>
     <title>
       <key>ru</key>
@@ -811,28 +589,6 @@
     <id>4</id>
     <valueType>
       <types>TypeDescription</types>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>ДополнительноеСвойство</name>
-    <title>
-      <key>ru</key>
-      <value>Дополнительное свойство</value>
-    </title>
-    <title>
-      <key>en</key>
-      <value>Additional property</value>
-    </title>
-    <id>5</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
     </valueType>
     <view>
       <common>true</common>
@@ -864,27 +620,6 @@
     </edit>
   </attributes>
   <attributes>
-    <name>ЭтоДополнительноеСведение</name>
-    <title>
-      <key>ru</key>
-      <value>Это дополнительное сведение</value>
-    </title>
-    <title>
-      <key>en</key>
-      <value>This is additional information</value>
-    </title>
-    <id>2</id>
-    <valueType>
-      <types>Boolean</types>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
     <name>МаксимальныйУровеньРазверткиСтрок</name>
     <id>11</id>
     <valueType>
@@ -902,8 +637,8 @@
     </edit>
   </attributes>
   <attributes>
-    <name>ДополнительноеСвойствоИдентификатор</name>
-    <id>27</id>
+    <name>ТекущееВыражение</name>
+    <id>28</id>
     <valueType>
       <types>String</types>
       <stringQualifiers/>
@@ -916,11 +651,29 @@
     </edit>
   </attributes>
   <attributes>
-    <name>ТекущееВыражение</name>
-    <id>28</id>
+    <name>ОграниченияРазвертки</name>
+    <title>
+      <key>ru</key>
+      <value>Ограничения развертки</value>
+    </title>
+    <id>7</id>
+    <valueType/>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ОтборПоТипуЗначения</name>
+    <title>
+      <key>ru</key>
+      <value>Отбор по типу значения</value>
+    </title>
+    <id>2</id>
     <valueType>
-      <types>String</types>
-      <stringQualifiers/>
+      <types>Boolean</types>
     </valueType>
     <view>
       <common>true</common>
@@ -1057,13 +810,6 @@
     </valueType>
   </parameters>
   <parameters>
-    <name>ВидАналитики</name>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-  </parameters>
-  <parameters>
     <name>ТекущееВыражение</name>
     <valueType>
       <types>String</types>
@@ -1071,14 +817,20 @@
     </valueType>
   </parameters>
   <parameters>
-    <name>ПериодСмещения</name>
+    <name>ТипЗначения</name>
     <valueType>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>10</precision>
-        <nonNegative>true</nonNegative>
-      </numberQualifiers>
+      <types>TypeDescription</types>
     </valueType>
+  </parameters>
+  <parameters>
+    <name>ОтборПоТипуЗначения</name>
+    <valueType>
+      <types>Boolean</types>
+    </valueType>
+  </parameters>
+  <parameters>
+    <name>ОграниченияРазвертки</name>
+    <valueType/>
   </parameters>
   <commandInterface>
     <navigationPanel/>

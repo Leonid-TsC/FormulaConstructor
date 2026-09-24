@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0e6ce07b-9e02-4349-afda-dc66d8f22661">
+  <producedTypes>
+    <containerType typeId="62b5948f-7548-41ae-8498-8b0840c46510" valueTypeId="0286002a-2c0b-4cc2-88f4-5a363d6e76c4"/>
+  </producedTypes>
+  <name>tsc_СправочникИдентификаторыОбъектовМетаданных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Cправочник &quot;Идентификаторы объектов метаданных&quot;</value>
+  </synonym>
+  <comment>добавляем в определяемый тип, чтобы при переносе не было проблем, можно было перевыбрать только в определяемых типах (не не в формах и др. местах)</comment>
+  <type/>
+</mdclass:DefinedType>

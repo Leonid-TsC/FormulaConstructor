@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="69764cdd-d3d5-4207-9cb6-782c5b432ba9">
+  <producedTypes>
+    <objectType typeId="d24d1ceb-df3a-433c-829c-32dd6d3a049b" valueTypeId="00d37f6e-48c3-4bcb-a6d9-cd998421c746"/>
+    <managerType typeId="533a6600-7dc7-4250-b0d2-24b347106335" valueTypeId="aabba962-8d24-4263-95cb-22ef724ad2cb"/>
+  </producedTypes>
+  <name>tsc_ПримерОткрытияКонструктораФормул</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пример открытия конструктора формул</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.tsc_ПримерОткрытияКонструктораФормул.Form.Форма</defaultForm>
+  <forms uuid="2e9aecce-8df5-4b26-80a4-62e0645439b0">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="08fbf14a-291f-4a46-93aa-228502bd7f97">
+    <name>ФормаВыбораОбъектаМетаданных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбора объекта метаданных</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

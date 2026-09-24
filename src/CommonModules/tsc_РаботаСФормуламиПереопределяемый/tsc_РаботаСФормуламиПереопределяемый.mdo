@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e84580c8-38c6-428e-8e51-8bb9cc287e9d">
+  <name>tsc_РаботаСФормуламиПереопределяемый</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с формулами переопределяемый (tsc)</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция пиктограмм конструктора формул (tsc)</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Collection of formula editor icons</value>
-  </synonym>
 </mdclass:CommonPicture>

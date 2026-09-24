@@ -2,12 +2,12 @@
 <mdclass:CommonForm xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8fa76697-17c9-4138-aedf-063f40c1b974">
   <name>tsc_КонструкторФормул</name>
   <synonym>
-    <key>en</key>
-    <value>Edit formula</value>
-  </synonym>
-  <synonym>
     <key>ru</key>
     <value>Редактирование формулы (tsc)</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Edit formula</value>
   </synonym>
   <help>
     <pages>

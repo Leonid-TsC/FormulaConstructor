@@ -2,12 +2,12 @@
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7910547f-7962-4b6c-bad7-a7d13977b908">
   <name>tsc_РаботаСФормуламиКлиентСервер</name>
   <synonym>
-    <key>en</key>
-    <value>Work with formulas client server</value>
-  </synonym>
-  <synonym>
     <key>ru</key>
     <value>Работа с формулами клиент сервер (tsc)</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Work with formulas client server</value>
   </synonym>
   <clientManagedApplication>true</clientManagedApplication>
   <server>true</server>
