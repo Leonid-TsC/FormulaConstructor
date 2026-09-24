@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6f54ee50-d7fd-4bf1-b293-f58b3a71a9aa">
-  <name>КомпоновкаДанныхКлиентСервер</name>
+  <name>tsc_КомпоновкаДанныхКлиентСервер</name>
   <synonym>
     <key>ru</key>
-    <value>Компоновка данных клиент сервер</value>
+    <value>Компоновка данных клиент сервер (tsc)</value>
   </synonym>
   <synonym>
     <key>en</key>

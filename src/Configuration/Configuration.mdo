@@ -39,18 +39,18 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <commonPictures>CommonPicture.КоллекцияПиктограммКонструктораФормул</commonPictures>
+  <commonPictures>CommonPicture.tsc_КоллекцияПиктограммКонструктораФормул</commonPictures>
   <roles>Role.tsc_ОсновнаяРоль</roles>
-  <commonModules>CommonModule.РаботаСФормулами</commonModules>
-  <commonModules>CommonModule.РаботаСФормуламиВызовСервера</commonModules>
-  <commonModules>CommonModule.РаботаСФормуламиКлиент</commonModules>
-  <commonModules>CommonModule.РаботаСФормуламиКлиентСервер</commonModules>
-  <commonModules>CommonModule.РаботаСФормуламиПовтИсп</commonModules>
-  <commonModules>CommonModule.КомпоновкаДанныхСервер</commonModules>
-  <commonModules>CommonModule.КомпоновкаДанныхКлиент</commonModules>
-  <commonModules>CommonModule.КомпоновкаДанныхКлиентСервер</commonModules>
-  <commonModules>CommonModule.КомпоновкаДанныхПовтИсп</commonModules>
-  <commonModules>CommonModule.КомпоновкаДанныхВызовСервера</commonModules>
-  <commonForms>CommonForm.КонструкторФормул</commonForms>
-  <commonForms>CommonForm.ВыборПоляЗаполненияАналитики</commonForms>
+  <commonModules>CommonModule.tsc_РаботаСФормулами</commonModules>
+  <commonModules>CommonModule.tsc_РаботаСФормуламиВызовСервера</commonModules>
+  <commonModules>CommonModule.tsc_РаботаСФормуламиКлиент</commonModules>
+  <commonModules>CommonModule.tsc_РаботаСФормуламиКлиентСервер</commonModules>
+  <commonModules>CommonModule.tsc_РаботаСФормуламиПовтИсп</commonModules>
+  <commonModules>CommonModule.tsc_КомпоновкаДанныхСервер</commonModules>
+  <commonModules>CommonModule.tsc_КомпоновкаДанныхКлиент</commonModules>
+  <commonModules>CommonModule.tsc_КомпоновкаДанныхКлиентСервер</commonModules>
+  <commonModules>CommonModule.tsc_КомпоновкаДанныхПовтИсп</commonModules>
+  <commonModules>CommonModule.tsc_КомпоновкаДанныхВызовСервера</commonModules>
+  <commonForms>CommonForm.tsc_КонструкторФормул</commonForms>
+  <commonForms>CommonForm.tsc_ВыборПоляПутиКДанным</commonForms>
 </mdclass:Configuration>

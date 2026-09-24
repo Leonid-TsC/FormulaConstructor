@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2e9b122e-8ce3-46e2-99a0-f6d1e7ffbe0b">
-  <name>РаботаСФормуламиПовтИсп</name>
+  <name>tsc_РаботаСФормуламиПовтИсп</name>
   <synonym>
     <key>ru</key>
-    <value>Работа с формулами повт исп</value>
+    <value>Работа с формулами повт исп (tsc)</value>
   </synonym>
   <synonym>
     <key>en</key>
